@@ -23,4 +23,4 @@ In Anaconda Navigator, open a terminal in your environment (see step 2 above).
 
 In the terminal that appears, use Streamlit as usual:
 
-### `streamlit run myfile.py`
+### `streamlit run app.py`
